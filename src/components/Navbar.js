@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const Navbar = () => {
-    return (
+    return ( 
         <div>
             <nav className="navbar navbar-expand-lg bg-body-tertiary">
                 <div className="container-fluid">
